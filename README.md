@@ -12,9 +12,8 @@
 |[A/B тестирование в интернет-магазине с целью увеличения выручки](https://github.com/KateZaikova/Portfolio/tree/main/A_B_test_2)|
 |[Исследование уровня потребительской лояльности телекоммуникационной компании](https://github.com/KateZaikova/Portfolio/tree/main/Consumer%20Loyalty%20Research)|
 |[Исследование данных о российском кинопрокате](https://github.com/KateZaikova/Portfolio/tree/main/Film%20Distribution%20Research)|
-|[Исследование надежности заемщиков]()|
-|[SQL project_2]()|
-|[Исследование объявлений о продаже квартир]()|
+|[SQL project_2](https://github.com/KateZaikova/Portfolio/tree/main/SQL_project_2)|
+|[Исследование объявлений о продаже квартир](https://github.com/KateZaikova/Portfolio/tree/main/Apartments%20for%20sale%20in%20St.%20Petersburg)|
 |[Определение перспективного тарифа для телеком-компании]()|
 |[Исследование рынка заведений общественного питания Москвы]()|
 |[Исследование надёжности заёмщиков]()|
