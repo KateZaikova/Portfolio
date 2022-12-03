@@ -5,6 +5,7 @@
 | Название проекта |Описание|Стек|
 |:-----------------|:-------|:---|
 |[Игры — Формирование модели монетизации](https://github.com/KateZaikova/Portfolio/tree/main/Game%20monetization%20model)|
+|[Разработка стратегии взаимодействия с клиентами фитнес-центром]()|
 |[A/B тестирование](https://github.com/KateZaikova/Portfolio/tree/main/A_B_test_1)|
 |[SQL project](https://github.com/KateZaikova/Portfolio/tree/main/SQL_project)|
 |[Исследование интернет-магазин компьютерных игр](https://github.com/KateZaikova/Portfolio/tree/main/Online%20computer%20games%20store)|
