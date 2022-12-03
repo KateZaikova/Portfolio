@@ -14,6 +14,6 @@
 |[Исследование данных о российском кинопрокате](https://github.com/KateZaikova/Portfolio/tree/main/Film%20Distribution%20Research)|
 |[SQL project_2](https://github.com/KateZaikova/Portfolio/tree/main/SQL_project_2)|
 |[Исследование объявлений о продаже квартир](https://github.com/KateZaikova/Portfolio/tree/main/Apartments%20for%20sale%20in%20St.%20Petersburg)|
-|[Определение перспективного тарифа для телеком-компании]()|
-|[Исследование рынка заведений общественного питания Москвы]()|
-|[Исследование надёжности заёмщиков]()|
+|[Определение перспективного тарифа для телеком-компании](https://github.com/KateZaikova/Portfolio/tree/main/Determining%20a%20favorable%20tariff)|
+|[Исследование рынка заведений общественного питания Москвы](https://github.com/KateZaikova/Portfolio/tree/main/Cafe)|
+|[Исследование надёжности заёмщиков](https://github.com/KateZaikova/Portfolio/tree/main/Bank)|
